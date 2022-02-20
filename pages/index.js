@@ -7,11 +7,12 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Essential Wedding Info</title>
-        /* <link rel="icon" href="/favicon.ico" /> */
+        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <Header title="Welcome to my app!" />
+        <h2> subtitle test</h2>
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
