@@ -16,6 +16,10 @@ export default function Home() {
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
+        <h3>subtitle test</h3>
+        <p className="description">this will be some additional text</p>
+        <h4>subtitle test</h4>
+        <p className="description">this will be some more text</p>
       </main>
 
       <Footer />
