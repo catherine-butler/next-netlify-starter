@@ -45,16 +45,17 @@ export default function Home() {
         </p>
         <h2>Friday Night - The Night Before</h2>
         <p className="description">
-          {
-            "The bride and groom will be onsite all day, but from <b>1630hrs onwards</b>, let’s all get together and have a mingle. Bring some BBQ bits and a few drinks. Not a late one - we’ll be needing our beauty sleep for the big day! "
-          }
+          The bride and groom will be onsite all day, but from{" "}
+          <b>1630hrs onwards</b>, let’s all get together and have a mingle.
+          Bring some BBQ bits and a few drinks. Not a late one - we’ll be
+          needing our beauty sleep for the big day!
         </p>
         <h2>Saturday Night - The Big Day!</h2>
         <h3>Ceremony</h3>
         <p className="description">
           We’d love to have you all present for the official “I do”, but space
           is limited. We're having a small ceremony, with just immediate family.
-          This will take place at{" "}
+          This will take place at
           <b>1430hrs at No. 3 Elliot Terrace, Plymouth</b> Hoe before we move on
           to…
         </p>
@@ -90,7 +91,7 @@ export default function Home() {
 
         <h4>Getting There!</h4>
         <p className="description">
-          The postcode for the nearest <i>property</i> to the Wedding Field is{" "}
+          The postcode for the nearest <i>property</i> to the Wedding Field is
           <b>PL8 1HG</b>
           <u>
             BUT WE STRONGLY ADVISE NOT TO FOLLOW A SATNAV AS THEY DON’T LIKE
@@ -106,7 +107,7 @@ export default function Home() {
           </li>
           <li>
             One mile west of South Brent (shortly after passing the Shell garage
-            on your right), turn left at the WRANGATON intersection signed to{" "}
+            on your right), turn left at the WRANGATON intersection signed to
             <b>Ermington A3121 and Yealmpton A379</b>. Turn left at the give way
             at the top of the intersection.
           </li>
@@ -124,7 +125,7 @@ export default function Home() {
           <li>
             Continue along this road. You will see signs to Holbeton village off
             to the left but DO NOT follow these. Continue along the same road
-            which is signposted to Stoke Beach.{" "}
+            which is signposted to Stoke Beach.
           </li>
           <li>
             Still following signs for Stoke, go straight through the hamlet of
@@ -149,19 +150,19 @@ export default function Home() {
             point 5 above.
           </li>
         </ol>
-        <h4>{"Camping & Accomodation"}</h4>
+        <h4>Camping & Accomodation</h4>
         <p className="description">
           There’s space to camp onsite, feel free to pitch your tent for a long
           weekend, or maybe just the night. Compost loos and showers are
           available! For those who don’t fancy camping and are in search of
-          luxury accomodation options check out:{" "}
+          luxury accomodation options check out:
           <a
             href="http://www.carswellcottages.com/"
             target="_blank"
             rel="noopener noreferrer"
           >
             Carswell Cottages.
-          </a>{" "}
+          </a>
           Otherwise feel free to investigate hotels, B’n’b and other options in
           the surrounding area but bear in mind this might mean a taxi ride
           home!
@@ -169,7 +170,7 @@ export default function Home() {
 
         <h4>Food & Drink</h4>
         <p className="description">
-          We’ll be serving up a top notch hog roast with all the trimmings.{" "}
+          We’ll be serving up a top notch hog roast with all the trimmings.
           <b>
             <u>
               If you have any special dietary requirements, please let us know
