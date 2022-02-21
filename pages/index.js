@@ -122,7 +122,15 @@ export default function Home() {
         <h4>Gifts</h4>
         <p className="description">this will be some additional text</p>
         <h3>Don't Forget!</h3>
-        <p className="description">this will be some additional text</p>
+        <p className="description">
+          <a
+            href="https://www.trailfinders.com/wishlist#/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Trailfinders Wishlist.
+          </a>
+        </p>
       </main>
 
       <Footer />
