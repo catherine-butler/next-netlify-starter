@@ -137,6 +137,13 @@ export default function Home() {
             Trailfinders Wishlist.
           </a>
         </p>
+        <a
+          href="https://forms.gle/tnbFnw6ftSMGACiU8"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <code>Click here to tell us your dietary and music requests!</code>
+        </a>
       </main>
 
       <Footer />
