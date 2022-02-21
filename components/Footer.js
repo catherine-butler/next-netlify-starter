@@ -5,7 +5,7 @@ export default function Footer() {
     <>
       <footer className={styles.footer}>
         <img
-          src="../public/festival-flags.svg"
+          src="/festival-flags.svg"
           alt="Multicoloured festival flags"
           className={styles.flags}
         />
