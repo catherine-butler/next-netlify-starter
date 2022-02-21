@@ -61,7 +61,6 @@ code {
   font-size: 20px;
   background-color: white;
   cursor: pointer;
-  box-shadow: #57a9b4 0px 20px 30px -10px;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
@@ -71,8 +70,8 @@ code:hover {
 }
 
 code:active {
-  background-color: #79eefd;
-  box-shadow: 0 5px #57a9b4;
+  background-color: #c1f3fa;
+  box-shadow: 0 5px #a9f2fc;
   transform: translateY(4px);
 }
 
