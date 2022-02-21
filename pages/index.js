@@ -20,11 +20,8 @@ export default function Home() {
         <Header title="Emma & Ben's Wedding Fest!" />
         <h2>
           On Saturday 11th June 2022, we're getting married and we want you to
-          help us celebrate!
-        </h2>
-        <h2>
-          I've pulled a website together to store all essential info and
-          hopefully answer any questions about the day.
+          help us celebrate! I've pulled a website together to store all
+          essential info and hopefully answer any questions about the day.
         </h2>
         <h2>
           A festival wedding, we hear you ask? Think a mini Glastonbury, without
@@ -45,7 +42,7 @@ export default function Home() {
         </p>
         <h2>Friday Night - The Night Before</h2>
         <p className="description">
-          The bride and groom will be onsite all day, but from{" "}
+          The bride and groom will be onsite all day, but from
           <b>1630hrs onwards</b>, let’s all get together and have a mingle.
           Bring some BBQ bits and a few drinks. Not a late one - we’ll be
           needing our beauty sleep for the big day!
@@ -92,7 +89,7 @@ export default function Home() {
         <h4>Getting There!</h4>
         <p className="description">
           The postcode for the nearest <i>property</i> to the Wedding Field is
-          <b>PL8 1HG</b>
+          <b>PL8 1HG</b>{" "}
           <u>
             BUT WE STRONGLY ADVISE NOT TO FOLLOW A SATNAV AS THEY DON’T LIKE
             SMALL DEVON ROADS!
@@ -193,6 +190,13 @@ export default function Home() {
           We don’t need gifts, your presence on our special day is a gift! If
           you wish to give us something, contributions towards our honeymoon
           would be greatly appreciated. If you wish to contribute, please visit:
+          <a
+            href="https://www.trailfinders.com/wishlist#/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Trailfinders Wishlist.
+          </a>
         </p>
 
         <h4>
@@ -204,30 +208,27 @@ export default function Home() {
 
         <h3>Don't Forget!</h3>
         <p className="description">
-          s mentioned, food will be a top notch hog roast. Tunes will be
+          As mentioned, food will be a top notch hog roast. Tunes will be
           banging. Please fill out the form below to tell us your dietary
           requirements and song suggestions for the playlist.
+        </p>
+        <p className="description">
           <b>
             <u>
               *Please note: if you are filling out the form on behalf of someone
               else, please put their name and individual dietary requirements.
             </u>
           </b>
+        </p>
+        <p className="description">
           <a
-            href="https://www.trailfinders.com/wishlist#/"
+            href="https://forms.gle/tnbFnw6ftSMGACiU8"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Trailfinders Wishlist.
+            <code>Click here to tell us your dietary and music requests!</code>
           </a>
         </p>
-        <a
-          href="https://forms.gle/tnbFnw6ftSMGACiU8"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <code>Click here to tell us your dietary and music requests!</code>
-        </a>
       </main>
 
       <Footer />
