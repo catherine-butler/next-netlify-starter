@@ -11,25 +11,51 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <h2> subtitle test</h2>
+        <Header title="Emma + Ben's Wedding Fest!" />
+        <h2> subtitle test para 1</h2>
+        <h2> subtitle test para 2</h2>
+        <h2> subtitle test para 3</h2>
+        <h3> Where is it?</h3>
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
-        <h3>subtitle test</h3>
+        <h3>When is it?</h3>
         <p className="description">this will be some additional text</p>
-        <h4>subtitle test</h4>
+        <h2>Friday Night</h2>
         <p className="description">
           {" "}
           Ipsum is simply dummy text of the printing and typesetting industry.
           Lorem Ipsum has been the industry's standard dummy text ever since the
           1500s, when an unknown printer took a galley of type and scrambled it
-          to make a type specimen book. It has survived not only five centuries,
-          but also the leap into electronic typesetting, remaining essentially
-          unchanged. It was popularised in the 1960s with the release of
-          Letraset sheets containing Lorem Ipsum passages, and more recently
-          with desktop publishing
+          to make a type specimen book.
         </p>
+        <h2>Saturday Night</h2>
+        <h3>Ceremony</h3>
+        <p className="description">
+          {" "}
+          Ipsum is simply dummy text of the printing and typesetting industry.
+          Lorem Ipsum has been the industry's standard dummy text ever since the
+          1500s, when an unknown printer took a galley of type and scrambled it
+          to make a type specimen book.
+        </p>
+        <h3>The Reception</h3>
+        <p className="description">this will be some additional text</p>
+        <h4>Schedule</h4>
+        <p className="description">this will be some additional text</p>
+        <h4>Getting There!</h4>
+        <p className="description">this will be some additional text</p>
+        <h4>Approaching From Exeter/M5</h4>
+        <p className="description">this will be some additional text</p>
+        <h4>Approaching From Plymouth</h4>
+        <p className="description">this will be some additional text</p>
+        <h4>Food + Drink</h4>
+        <p className="description">this will be some additional text</p>
+        <h4>Dress code</h4>
+        <p className="description">this will be some additional text</p>
+        <h4>Gifts</h4>
+        <p className="description">this will be some additional text</p>
+        <h3>Don't Forget!</h3>
+        <p className="description">this will be some additional text</p>
       </main>
 
       <Footer />
