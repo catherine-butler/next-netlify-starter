@@ -52,7 +52,7 @@ export default function Home() {
         <p className="description">
           We’d love to have you all present for the official “I do”, but space
           is limited. We're having a small ceremony, with just immediate family.
-          This will take place at
+          This will take place at{" "}
           <b>1430hrs at No. 3 Elliot Terrace, Plymouth</b> Hoe before we move on
           to…
         </p>
@@ -68,7 +68,7 @@ export default function Home() {
           Timing on the day will be fairly loose but the rough schedule we'll be
           keeping to is:
         </p>
-        <ul>
+        <ul className="description">
           <li>
             <b>1630hrs</b> Arrival
           </li>
@@ -88,7 +88,7 @@ export default function Home() {
 
         <h4>Getting There!</h4>
         <p className="description">
-          The postcode for the nearest <i>property</i> to the Wedding Field is
+          The postcode for the nearest <i>property</i> to the Wedding Field is{" "}
           <b>PL8 1HG</b>{" "}
           <u>
             BUT WE STRONGLY ADVISE NOT TO FOLLOW A SATNAV AS THEY DON’T LIKE
@@ -97,7 +97,7 @@ export default function Home() {
         </p>
 
         <h4>Approaching From Exeter/M5</h4>
-        <ol>
+        <ol className="description">
           <li>
             When the M5 ends at Exeter, take the A38 for Plymouth. Stay put on
             this road for around 26 miles.
@@ -136,7 +136,7 @@ export default function Home() {
           </li>
         </ol>
         <h4>Approaching From Plymouth</h4>
-        <ol>
+        <ol className="description">
           <li>Leave Plymouth on the A379 for Kingsbridge.</li>
           <li>
             Stay on the A379 for around 6 miles, through Brixton and Yealmpton.
@@ -160,6 +160,8 @@ export default function Home() {
           >
             Carswell Cottages.
           </a>
+        </p>
+        <p className="description">
           Otherwise feel free to investigate hotels, B’n’b and other options in
           the surrounding area but bear in mind this might mean a taxi ride
           home!
@@ -199,12 +201,12 @@ export default function Home() {
           </a>
         </p>
 
-        <h4>
+        <p className="description">
           Wishlist Reference: <b>5BL3BN</b>
-        </h4>
-        <h4>
+        </p>
+        <p className="description">
           Closing Date: <b>26/06/2022</b>
-        </h4>
+        </p>
 
         <h3>Don't Forget!</h3>
         <p className="description">
