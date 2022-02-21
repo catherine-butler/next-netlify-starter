@@ -38,8 +38,10 @@ export default function Home() {
           1500s, when an unknown printer took a galley of type and scrambled it
           to make a type specimen book.
         </p>
+
         <h3>The Reception</h3>
         <p className="description">this will be some additional text</p>
+
         <h4>Schedule</h4>
         <p className="description">this will be some additional text</p>
         <ul>
@@ -59,12 +61,60 @@ export default function Home() {
             <b>0030hrs</b> Carriages/Tents
           </li>
         </ul>
+
         <h4>Getting There!</h4>
         <p className="description">this will be some additional text</p>
         <h4>Approaching From Exeter/M5</h4>
-        <p className="description">this will be some additional text</p>
+        <ol>
+          <li>
+            When the M5 ends at Exeter, take the A38 for Plymouth. Stay put on
+            this road for around 26 miles.
+          </li>
+          <li>
+            One mile west of South Brent (shortly after passing the Shell garage
+            on your right), turn left at the WRANGATON intersection signed to{" "}
+            <b>Ermington A3121 and Yealmpton A379</b>. Turn left at the give way
+            at the top of the intersection.
+          </li>
+          <li>
+            Continue for 1 mile to crossroads with a give way sign and turn
+            right onto A3121. Keep on this road for several miles past Ugborough
+            and Ermington.
+          </li>
+          <li>
+            Half a mile past Ermington, stop at a halt sign and turn right onto
+            the A379 towards Plymouth (BE CAREFUL - DANGEROUS TURNING). After
+            about half a mile, as you come to the top of a gentle hill, turn
+            left following signs for Holbeton and Mothecombe.
+          </li>
+          <li>
+            Continue along this road. You will see signs to Holbeton village off
+            to the left but DO NOT follow these. Continue along the same road
+            which is signposted to Stoke Beach.{" "}
+          </li>
+          <li>
+            Still following signs for Stoke, go straight through the hamlet of
+            Battisborough Cross. You keep going along this road for about half a
+            mile. You will pass the entrance to Carswell Farm on your left and
+            the entrances to Poole Farm and then Lambside Farm on your right.
+            Keep going straight on past Eastern Lodge (with the wonky chimneys!)
+            and past a turning on your right signposted to Membland. Very soon
+            after this you will see the wooden gates into the wedding field on
+            your left hand side!
+          </li>
+        </ol>
         <h4>Approaching From Plymouth</h4>
-        <p className="description">this will be some additional text</p>
+        <ol>
+          <li>Leave Plymouth on the A379 for Kingsbridge.</li>
+          <li>
+            Stay on the A379 for around 6 miles, through Brixton and Yealmpton.
+          </li>
+          <li>
+            Around 2 miles past Yealmpton, take the RIGHT hand turning
+            signposted Holbeton then continue as per above instructions from
+            point 5 above.
+          </li>
+        </ol>
         <h4>Food + Drink</h4>
         <p className="description">this will be some additional text</p>
         <h4>Dress code</h4>
