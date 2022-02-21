@@ -68,6 +68,22 @@ code {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
+a:link {
+  color: #0125f0;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #0125f0;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #0125f0;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
 .container {
   height: auto;
   display: flex;
