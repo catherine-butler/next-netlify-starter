@@ -42,6 +42,23 @@ export default function Home() {
         <p className="description">this will be some additional text</p>
         <h4>Schedule</h4>
         <p className="description">this will be some additional text</p>
+        <ul>
+          <li>
+            <b>1630hrs</b> Arrival
+          </li>
+          <li>
+            <b>1730hrs</b> Speeches
+          </li>
+          <li>
+            <b>1900hrs</b> Grubs up!
+          </li>
+          <li>
+            <b>2100hrs</b> First dance
+          </li>
+          <li>
+            <b>0030hrs</b> Carriages/Tents
+          </li>
+        </ul>
         <h4>Getting There!</h4>
         <p className="description">this will be some additional text</p>
         <h4>Approaching From Exeter/M5</h4>
