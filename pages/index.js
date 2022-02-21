@@ -17,39 +17,59 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Emma + Ben's Wedding Fest!" />
-        <h2> subtitle test para 1</h2>
-        <h2> subtitle test para 2</h2>
-        <h2> subtitle test para 3</h2>
+        <Header title="Emma & Ben's Wedding Fest!" />
+        <h2>
+          On Saturday 11th June 2022, we're getting married and we want you to
+          help us celebrate!
+        </h2>
+        <h2>
+          I've pulled a website together to store all essential info and
+          hopefully answer any questions about the day.
+        </h2>
+        <h2>
+          A festival wedding, we hear you ask? Think a mini Glastonbury, without
+          the ticket drama! Picture a bloody great tent in a field by the sea,
+          throw in a band, some great food and drink, a fire pit, garden games
+          and singing and dancing our way into the night!
+        </h2>
         <h3> Where is it?</h3>
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          A few miles outside Plymouth, on a clifftop looking out to sea,
+          Carswell Farm is the staging point for our little festival wedding.
         </p>
         <h3>When is it?</h3>
-        <p className="description">this will be some additional text</p>
-        <h2>Friday Night</h2>
         <p className="description">
-          {" "}
-          Ipsum is simply dummy text of the printing and typesetting industry.
-          Lorem Ipsum has been the industry's standard dummy text ever since the
-          1500s, when an unknown printer took a galley of type and scrambled it
-          to make a type specimen book.
+          The big day is Saturday 11th June, but we’re in a beautiful part of
+          the world, and we want people to make the most of it. Feel free to
+          come on down for a long weekend!
         </p>
-        <h2>Saturday Night</h2>
+        <h2>Friday Night - The Night Before</h2>
+        <p className="description">
+          {
+            "The bride and groom will be onsite all day, but from <b>1630hrs onwards</b>, let’s all get together and have a mingle. Bring some BBQ bits and a few drinks. Not a late one - we’ll be needing our beauty sleep for the big day! "
+          }
+        </p>
+        <h2>Saturday Night - The Big Day!</h2>
         <h3>Ceremony</h3>
         <p className="description">
-          {" "}
-          Ipsum is simply dummy text of the printing and typesetting industry.
-          Lorem Ipsum has been the industry's standard dummy text ever since the
-          1500s, when an unknown printer took a galley of type and scrambled it
-          to make a type specimen book.
+          We’d love to have you all present for the official “I do”, but space
+          is limited. We're having a small ceremony, with just immediate family.
+          This will take place at{" "}
+          <b>1430hrs at No. 3 Elliot Terrace, Plymouth</b> Hoe before we move on
+          to…
         </p>
 
         <h3>The Reception</h3>
-        <p className="description">this will be some additional text</p>
+        <p className="description">
+          The bride, groom and the rest of the crew will be arriving back on
+          site around 1630hrs, now the party starts!
+        </p>
 
         <h4>Schedule</h4>
-        <p className="description">this will be some additional text</p>
+        <p className="description">
+          Timing on the day will be fairly loose but the rough schedule we'll be
+          keeping to is:
+        </p>
         <ul>
           <li>
             <b>1630hrs</b> Arrival
@@ -69,7 +89,15 @@ export default function Home() {
         </ul>
 
         <h4>Getting There!</h4>
-        <p className="description">this will be some additional text</p>
+        <p className="description">
+          The postcode for the nearest <i>property</i> to the Wedding Field is{" "}
+          <b>PL8 1HG</b>
+          <u>
+            BUT WE STRONGLY ADVISE NOT TO FOLLOW A SATNAV AS THEY DON’T LIKE
+            SMALL DEVON ROADS!
+          </u>
+        </p>
+
         <h4>Approaching From Exeter/M5</h4>
         <ol>
           <li>
@@ -121,14 +149,69 @@ export default function Home() {
             point 5 above.
           </li>
         </ol>
-        <h4>Food + Drink</h4>
-        <p className="description">this will be some additional text</p>
+        <h4>{"Camping & Accomodation"}</h4>
+        <p className="description">
+          There’s space to camp onsite, feel free to pitch your tent for a long
+          weekend, or maybe just the night. Compost loos and showers are
+          available! For those who don’t fancy camping and are in search of
+          luxury accomodation options check out:{" "}
+          <a
+            href="http://www.carswellcottages.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Carswell Cottages.
+          </a>{" "}
+          Otherwise feel free to investigate hotels, B’n’b and other options in
+          the surrounding area but bear in mind this might mean a taxi ride
+          home!
+        </p>
+
+        <h4>Food & Drink</h4>
+        <p className="description">
+          We’ll be serving up a top notch hog roast with all the trimmings.{" "}
+          <b>
+            <u>
+              If you have any special dietary requirements, please let us know
+              using the form a bit further down.
+            </u>
+          </b>
+          There won’t be an overpriced bar, so Bring Your Own Beer! (We know
+          you’d all do it anyway, even if there was a bar!).
+        </p>
+
         <h4>Dress code</h4>
-        <p className="description">this will be some additional text</p>
+        <p className="description">
+          Colours and lots of them. Glitter is actively encouraged. Appropriate
+          footwear - you’ll be partying in a field! Think flats, chunky heels,
+          or even wellies - weather dependent!
+        </p>
+
         <h4>Gifts</h4>
-        <p className="description">this will be some additional text</p>
+        <p className="description">
+          We don’t need gifts, your presence on our special day is a gift! If
+          you wish to give us something, contributions towards our honeymoon
+          would be greatly appreciated. If you wish to contribute, please visit:
+        </p>
+
+        <h4>
+          Wishlist Reference: <b>5BL3BN</b>
+        </h4>
+        <h4>
+          Closing Date: <b>26/06/2022</b>
+        </h4>
+
         <h3>Don't Forget!</h3>
         <p className="description">
+          s mentioned, food will be a top notch hog roast. Tunes will be
+          banging. Please fill out the form below to tell us your dietary
+          requirements and song suggestions for the playlist.
+          <b>
+            <u>
+              *Please note: if you are filling out the form on behalf of someone
+              else, please put their name and individual dietary requirements.
+            </u>
+          </b>
           <a
             href="https://www.trailfinders.com/wishlist#/"
             target="_blank"
