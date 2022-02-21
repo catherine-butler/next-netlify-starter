@@ -104,7 +104,7 @@ export default function Home() {
           </li>
           <li>
             One mile west of South Brent (shortly after passing the Shell garage
-            on your right), turn left at the WRANGATON intersection signed to
+            on your right), turn left at the WRANGATON intersection signed to{" "}
             <b>Ermington A3121 and Yealmpton A379</b>. Turn left at the give way
             at the top of the intersection.
           </li>
@@ -152,7 +152,7 @@ export default function Home() {
           There’s space to camp onsite, feel free to pitch your tent for a long
           weekend, or maybe just the night. Compost loos and showers are
           available! For those who don’t fancy camping and are in search of
-          luxury accomodation options check out:
+          luxury accomodation options check out:{" "}
           <a
             href="http://www.carswellcottages.com/"
             target="_blank"
@@ -169,13 +169,13 @@ export default function Home() {
 
         <h4>Food & Drink</h4>
         <p className="description">
-          We’ll be serving up a top notch hog roast with all the trimmings.
+          We’ll be serving up a top notch hog roast with all the trimmings.{" "}
           <b>
             <u>
               If you have any special dietary requirements, please let us know
               using the form a bit further down.
             </u>
-          </b>
+          </b>{" "}
           There won’t be an overpriced bar, so Bring Your Own Beer! (We know
           you’d all do it anyway, even if there was a bar!).
         </p>
@@ -191,7 +191,7 @@ export default function Home() {
         <p className="description">
           We don’t need gifts, your presence on our special day is a gift! If
           you wish to give us something, contributions towards our honeymoon
-          would be greatly appreciated. If you wish to contribute, please visit:
+          would be greatly appreciated. If you wish to contribute, please visit:{" "}
           <a
             href="https://www.trailfinders.com/wishlist#/"
             target="_blank"

@@ -24,12 +24,12 @@ h1 {
 }
 h2 {
   font-family: "Zeyada", cursive;
-  font-size: 3rem;
+  font-size: 2.8rem;
 }
 h3,
 h4 {
   font-family: "Zeyada", cursive;
-  font-size: 2rem;
+  font-size: 2.5rem;
 }
 
 :root {
@@ -66,12 +66,12 @@ code {
 }
 
 code:hover {
-  background-color: #79eefd;
+  background-color: #fdffa0;
 }
 
 code:active {
-  background-color: #c1f3fa;
-  box-shadow: 0 5px #a9f2fc;
+  background-color: #feffdd;
+  box-shadow: 0 5px #fcfd99;
   transform: translateY(4px);
 }
 
