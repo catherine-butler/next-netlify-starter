@@ -42,7 +42,7 @@ export default function Home() {
         </p>
         <h2>Friday Night - The Night Before</h2>
         <p className="description">
-          The bride and groom will be onsite all day, but from
+          The bride and groom will be onsite all day, but from{" "}
           <b>1630hrs onwards</b>, let’s all get together and have a mingle.
           Bring some BBQ bits and a few drinks. Not a late one - we’ll be
           needing our beauty sleep for the big day!
@@ -202,10 +202,14 @@ export default function Home() {
         </p>
 
         <p className="description">
-          Wishlist Reference: <b>5BL3BN</b>
+          <code>
+            Wishlist Reference: <b>5BL3BN</b>
+          </code>
         </p>
         <p className="description">
-          Closing Date: <b>26/06/2022</b>
+          <code>
+            Closing Date: <b>26/06/2022</b>
+          </code>
         </p>
 
         <h3>Don't Forget!</h3>
