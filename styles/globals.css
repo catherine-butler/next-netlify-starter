@@ -18,12 +18,18 @@ body {
   }
 }
 
-h1,
-h2,
+h1 {
+  font-family: "Zeyada", cursive;
+  font-size: 7rem;
+}
+h2 {
+  font-family: "Zeyada", cursive;
+  font-size: 2rem;
+}
 h3,
 h4 {
   font-family: "Zeyada", cursive;
-  font-size: 3rem;
+  font-size: 1.5rem;
 }
 
 :root {
