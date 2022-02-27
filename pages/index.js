@@ -235,9 +235,13 @@ export default function Home() {
             <code>Click here to tell us your dietary and music requests!</code>
           </a>
         </p>
-      </main>
 
-      <Footer />
+        <h2>
+          {" "}
+          We really hope you can make it - please RVSP to{" "}
+          <b>emmaperry20@hotmail.com</b> by April 30th 2022.
+        </h2>
+      </main>
     </div>
   );
 }
