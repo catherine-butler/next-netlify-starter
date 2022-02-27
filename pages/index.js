@@ -236,10 +236,8 @@ export default function Home() {
           </a>
         </p>
 
-        <h2>
-          We really hope you can make it - please RVSP to
-          emmaperry20@hotmail.com by April 30th 2022.
-        </h2>
+        <h2>We really hope you can make it - please RVSP to </h2>
+        <h2>emmaperry20@hotmail.com by April 30th 2022.</h2>
       </main>
     </div>
   );
