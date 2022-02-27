@@ -127,7 +127,7 @@ ul {
 }
 
 @media screen and (max-width: 600px) {
-  p {
-    line-height: 2rem;
+  .description {
+    line-height: 2.5rem;
   }
 }

@@ -76,7 +76,7 @@ export default function Home() {
             <b>1730hrs</b> Speeches
           </li>
           <li>
-            <b>1900hrs</b> Grubs up!
+            <b>1800 - 1830hrs</b> Grubs up!
           </li>
           <li>
             <b>2100hrs</b> First dance
